@@ -14,7 +14,7 @@ edit_uri: ""
 
 theme:
   name: "material"
-  logo: "images/onit.ico"
+  logo: "images/favicon.ico"
   favicon: "images/favicon.ico"
   language: "en"
   palette:
