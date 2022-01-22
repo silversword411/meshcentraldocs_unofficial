@@ -1,4 +1,4 @@
-# MeshCentral2 COMMIT testDocumentation
+# MeshCentral2 Documentation
 
 ## Table of Contents
 
