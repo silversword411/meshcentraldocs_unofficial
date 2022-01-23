@@ -1,4 +1,4 @@
-# 6MeshCentral2 Documentation
+# 7MeshCentral2 Documentation
 
 ## Table of Contents
 
