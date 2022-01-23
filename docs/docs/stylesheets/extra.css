@@ -11,7 +11,7 @@
 .body {
     margin: 0px;
     height: 60%;
-    background: #113962;
+    background-color: #113962;
     background: linear-gradient(to bottom, #104893 0%,#113962 100%), url(images/back.png);
     background-position: left:0;
     background-repeat: no-repeat;
