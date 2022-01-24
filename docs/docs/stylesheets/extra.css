@@ -9,10 +9,13 @@
     color: initial;
 }
 .md-container {
-    background-color: #113962;
+    background-color: #114587;
 }
 .md-nav__item .md-nav__link--active {
     color: white;
+}
+.md-nav__link[data-md-state=blur] {
+    color: var(--md-default-fg-color--light);
 }
 .md-nav__link {
     color: white;
@@ -20,6 +23,7 @@
 }
 .md-typeset a {
     color: whitesmoke;
+    text-decoration: underline;
 }
 .md-typeset h1 {
     color: white;
