@@ -54,8 +54,7 @@
 .md-main {
     color: white !important;
     background-color: #113962;
-    background: linear-gradient(to bottom, #104893 0%,#113962 100%), url(back.png);
-    position: absolute;
+    background: linear-gradient(to bottom, #104893 0%,#113962 100%), url(../images/back.png);
 }
 a:link {
     color: #c8c8c8;
