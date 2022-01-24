@@ -20,8 +20,6 @@
 .md-nav__item .md-nav__link--active {
     color: white;
 }
-.md-nav__link[data-md-state=blur] {
-}
 .md-nav__link {
     color: white;
     text-shadow: 4px 4px 8px black;
