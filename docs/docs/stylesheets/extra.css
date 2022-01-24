@@ -18,7 +18,6 @@
     color: white;
 }
 .md-nav__link[data-md-state=blur] {
-    color: var(--md-default-fg-color--light);
 }
 .md-nav__link {
     color: white;
