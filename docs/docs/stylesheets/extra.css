@@ -16,6 +16,7 @@
 }
 .md-nav__link {
     color: white;
+    text-shadow: 4px 4px 8px black;
 }
 .md-typeset a {
     color: whitesmoke;
@@ -38,7 +39,7 @@
 .md-main {
     color: white !important;
     background-color: #113962;
-    background: linear-gradient(to bottom, #104893 0%,#113962 100%), url(../images/back.png);
+    background: linear-gradient(to bottom, #104893 0%,#113962 100%), url(/images/back.png);
     background-position: left:0;
     background-repeat: no-repeat;
     position: absolute;
