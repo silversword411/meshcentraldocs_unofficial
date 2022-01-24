@@ -23,6 +23,9 @@
 .md-nav__link {
     color: white;
 }
+.md-nav__link[data-md-state=blur] {
+    color: white;
+}
 .md-typeset a {
     color: whitesmoke;
     text-decoration: underline;
