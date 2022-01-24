@@ -14,6 +14,9 @@
 .md-footer-meta__inner {
     background-color: #0b3e81;
 }
+.md-grid {
+    background-color: #0b3e81;
+}
 .md-nav__item .md-nav__link--active {
     color: white;
 }
