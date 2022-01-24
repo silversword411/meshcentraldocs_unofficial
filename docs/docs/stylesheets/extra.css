@@ -15,7 +15,6 @@
     background-color: #0b3e81;
 }
 .md-grid {
-    background-color: #0b3e81;
 }
 .md-nav__item .md-nav__link--active {
     color: white;
@@ -54,7 +53,7 @@
 .md-main {
     color: white !important;
     background-color: #113962;
-    background: linear-gradient(to bottom, #104893 0%,#113962 100%), url(../images/back.png);
+    background: linear-gradient(to bottom, #104893 0%,#113962 100%);
 }
 a:link {
     color: #c8c8c8;
