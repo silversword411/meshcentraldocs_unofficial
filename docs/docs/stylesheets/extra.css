@@ -11,6 +11,9 @@
 .md-container {
     background-color: #0b3e81;
 }
+.md-footer-meta__inner {
+    background-color: #0b3e81;
+}
 .md-nav__item .md-nav__link--active {
     color: white;
 }
@@ -51,4 +54,7 @@
 }
 a:link {
     color: #c8c8c8;
+}
+.html {
+    background-color: #0b3e81;
 }
