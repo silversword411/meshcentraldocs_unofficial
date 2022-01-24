@@ -8,6 +8,33 @@
 .md-search__icon[for=__search]{
     color: initial;
 }
+.md-container {
+    background-color: #113962;
+}
+.md-nav__item .md-nav__link--active {
+    color: white;
+}
+.md-nav__link {
+    color: white;
+}
+.md-typeset a {
+    color: whitesmoke;
+}
+.md-typeset h1 {
+    color: white;
+}
+.md-typeset h2 {
+    color: white;
+}
+.md-typeset h3 {
+    color: white;
+}
+.md-typeset h4 {
+    color: white;
+}
+.md-typeset h5 {
+    color: white;
+}
 .md-main {
     color: white !important;
     background-color: #113962;
@@ -15,4 +42,7 @@
     background-position: left:0;
     background-repeat: no-repeat;
     position: absolute;
+}
+a:link {
+    color: #c8c8c8;
 }
