@@ -1,4 +1,4 @@
-# 8MeshCentral2 Documentation
+# MeshCentral2 Documentation
 
 ## Table of Contents
 
