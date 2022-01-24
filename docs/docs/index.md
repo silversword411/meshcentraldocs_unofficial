@@ -1,13 +1,4 @@
-# MeshCentral2 Documentation
-
-## Table of Contents
-
-[About](install.md#About)
-Social Media
-[Documentation](install.md#Documentation)
-Video Tutorials
-[Feedback](install.md#Feedback)
-[License](install.md#License)
+# 8MeshCentral2 Documentation
 
 ## About
 
