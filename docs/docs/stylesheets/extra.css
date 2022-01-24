@@ -30,18 +30,23 @@
 }
 .md-typeset h1 {
     color: white;
+    text-shadow: 4px 4px 8px black;
 }
 .md-typeset h2 {
     color: white;
+    text-shadow: 4px 4px 8px black;
 }
 .md-typeset h3 {
     color: white;
+    text-shadow: 4px 4px 8px black;
 }
 .md-typeset h4 {
     color: white;
+    text-shadow: 4px 4px 8px black;
 }
 .md-typeset h5 {
     color: white;
+    text-shadow: 4px 4px 8px black;
 }
 .md-main {
     color: white !important;
