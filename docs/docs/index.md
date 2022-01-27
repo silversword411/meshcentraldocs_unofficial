@@ -11,8 +11,11 @@ For more information, [visit MeshCentral.com](https://www.meshcentral.com/).
 ## Social Media
 
 [YouTube](https://www.youtube.com/channel/UCJWz607A8EVlkilzcrb-GKg/videos)
+
 [Reddit](https://www.reddit.com/r/MeshCentral/)
+
 [Twitter](https://twitter.com/MeshCentral)
+
 [BlogSpot](https://meshcentral2.blogspot.com/)
 
 ## Documentation
