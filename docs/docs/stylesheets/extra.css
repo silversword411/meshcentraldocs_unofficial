@@ -25,6 +25,12 @@
 .md-nav__link[data-md-state=blur] {
     color: white;
 }
+.md-tabs {
+    background-color: #0b3e81;
+    color: white;
+}
+.md-tabs__list {
+}
 .md-typeset a {
     color: whitesmoke;
     text-decoration: underline;
