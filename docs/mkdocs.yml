@@ -1,6 +1,31 @@
 site_name: "MeshCentral Documentation - Unofficial"
 nav:
   - Home: index.md
+
+  - Downloads: downloads.md
+
+  - Install:
+    - install/install.md
+      - install/install2.md
+
+  - MeshCentral: 
+    - meshcentral/index.md
+
+  - Design and Architecture:
+    - design/index.md
+
+  - MeshCmd:
+    - meshcmd/index.md
+
+  - MeshCtrl:
+    - meshctrl/index.md
+
+  - Mesh Router:
+    - meshrouter/index.md
+
+  - Intel AMT:
+    - intelamt/index.md
+
 site_description: "A free open source web-based remote computer management software"
 site_author: "Ylianst"
 site_url: "https://silversword411.github.io/meshcentraldocs_unofficial/"
