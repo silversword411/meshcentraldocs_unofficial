@@ -14,8 +14,14 @@ The stacktrace was logged to `stdout/journalctl`. Supposedly, you can enable deb
 
 Adding this to `/etc/systemd/system/meshcentral.service` should do it but it didn't seem to do anything. 
 
-I think that's because Mesh uses the trace logging in the browser instead of logging things in the server logs. `Environment=DEBUG=mesh*`
+I think that's because Mesh uses the trace logging in the browser instead of logging things in the server logs. 
+
+```
+Environment=DEBUG=mesh*
+```
 
 If you want to change node to meshcentral in journalctl, add this to /etc/systemd/system/meshcentral.service.
   
-`SyslogIdentifier=meshcentral`
+```
+SyslogIdentifier=meshcentral
+```
