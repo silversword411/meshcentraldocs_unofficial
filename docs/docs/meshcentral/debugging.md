@@ -73,3 +73,12 @@ You'll then have 3 files:
 -rw-r--r-- 1 tactical tactical 147593 Feb  2 12:31 log.txt
 -rw-rw-r-- 1 tactical tactical    381 Feb  2 12:02 mesherrors.txt
 ```
+
+
+When doing debugging on my development server, I use this line in the settings section to block all agent connections except the agent I want:
+
+```
+"agentAllowedIp": [ "192.168.2.147" ],
+```
+
+Of course, this is just for debugging.
