@@ -96,3 +96,8 @@ When doing debugging on my development server, I use this line in the settings s
 ```
 
 Of course, this is just for debugging.
+
+
+## Finding system ID types
+
+<https://serverurl/meshagents>
