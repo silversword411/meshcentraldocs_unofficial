@@ -30,8 +30,6 @@ site_description: "A free open source web-based remote computer management softw
 site_author: "Ylianst"
 site_url: "https://silversword411.github.io/meshcentraldocs_unofficial/"
 
-dev_addr: "0.0.0.0:8005"
-
 # Repository
 repo_name: "Ylianst/MeshCentral"
 repo_url: "https://github.com/Ylianst/MeshCentral"
