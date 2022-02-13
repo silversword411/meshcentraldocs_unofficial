@@ -5,7 +5,7 @@ nav:
   - Downloads: downloads.md
 
   - Install:
-    - install/install.md
+    - install/index.md
     - install/install2.md
 
   - MeshCentral: 
