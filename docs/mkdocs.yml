@@ -6,7 +6,6 @@ nav:
 
   - Install:
     - install/index.md
-    - install/install2.md
 
   - MeshCentral: 
     - meshcentral/index.md
