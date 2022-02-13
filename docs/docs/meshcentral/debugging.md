@@ -101,3 +101,5 @@ Of course, this is just for debugging.
 ## Finding system ID types
 
 <https://serverurl/meshagents>
+
+## General server statistics related
