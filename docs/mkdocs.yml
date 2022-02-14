@@ -50,6 +50,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  generator: false
+
 markdown_extensions:
   - pymdownx.keys
   - pymdownx.inlinehilite
