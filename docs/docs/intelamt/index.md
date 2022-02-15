@@ -1,6 +1,6 @@
 # Intel AMT
 
-:fontawesome/regular/file-pdf: [Intel AMT](https://github.com/Ylianst/MeshCentral/blob/master/docs/MeshCentral2%20Intel%20AMT%20Guide%20v0.0.1.odt)
+[Intel AMT Guide](https://github.com/Ylianst/MeshCentral/blob/master/docs/MeshCentral2%20Intel%20AMT%20Guide%20v0.0.1.odt)
 
 ## Video Walkthru
 
