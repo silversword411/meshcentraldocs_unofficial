@@ -2,8 +2,6 @@ site_name: "MeshCentral Documentation - Unofficial"
 nav:
   - Home: index.md
 
-  - Downloads: downloads.md
-
   - Install:
     - install/index.md
 
